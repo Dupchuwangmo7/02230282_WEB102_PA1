@@ -39,5 +39,5 @@ Product data is stored in a JSON file located at ./data/products.json.
     }
 
     
-Reference 
+### Reference 
 - https://www.youtube.com/watch?v=_1xa8Bsho6A&t=1185s
