@@ -1,0 +1,27 @@
+[
+    {
+      "id": "001",
+      "name": "T-shirt",
+      "price": 15.99,
+      "description": "A simple cotton T-shirt available in various colors and sizes."
+    },
+    {
+      "id": "002",
+      "name": "Jeans",
+      "price": 29.99,
+      "description": "Classic denim jeans with a comfortable fit."
+    },
+    {
+      "id": "003",
+      "name": "Sneakers",
+      "price": 49.99,
+      "description": "Stylish sneakers suitable for casual wear."
+    },
+    {
+      "id": "004",
+      "name": "Backpack",
+      "price": 39.99,
+      "description": "Durable backpack with multiple compartments for storage."
+    }
+  ]
+  
